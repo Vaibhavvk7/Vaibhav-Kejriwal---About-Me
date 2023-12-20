@@ -4,7 +4,7 @@ I am Vaibhav, and I am a MS ECE grad student from Northeastern University, Bosto
 
 In my free time, I work on a host of 🤞🏻&nbsp; projects, while consuming unhealthy amounts of Caffeine.
 
-Send me an ✉️ &nbsp; [email](mailto:vaibhavk05092001@gmail.com), or a [email](mailto:kejriwal.v@northeastern.edu) &nbsp;.
+Send me an ✉️ at &nbsp; [email](mailto:vaibhavk05092001@gmail.com), or at [email](mailto:kejriwal.v@northeastern.edu) &nbsp;.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vaibhavvk7)<br/>
