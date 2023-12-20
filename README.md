@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vaibhav, and I am an ECE undergrad from VIT, Vellore. I am an Iot developer, circuit designer, AI and ML enthusiast, innovator ;
+I am Vaibhav, and I am a MS ECE grad student from Northeastern University, Boston. I am a data science,AI and ML enthusiast, innovator ;
 
 In my free time, I work on a host of 🤞🏻&nbsp; projects, while consuming unhealthy amounts of Caffeine.
 
