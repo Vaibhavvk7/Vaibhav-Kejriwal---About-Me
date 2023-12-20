@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vaibhav, and I am a MS ECE grad student from Northeastern University, Boston specialising in software for machine intwlligence, Ml, CV and Algorithms. I am an aspiring data scientist who is also an AI and ML enthusiast and above all an innovator ;
+I am Vaibhav, and I am a MS ECE grad student from Northeastern University, Boston specialising in software for machine intelligence, ML, CV and Algorithms. I am an aspiring data scientist who is also an AI and ML enthusiast and above all an innovator ;
 
 In my free time, I work on a host of 🤞🏻&nbsp; projects, while consuming unhealthy amounts of Caffeine.
 
